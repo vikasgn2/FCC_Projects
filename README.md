@@ -10,3 +10,6 @@ https://codepen.io/vikasgn2/full/VwWbjVB
 
 ### Landing Page
 https://codepen.io/vikasgn2/full/YzQxjzq
+
+### Technical Documentation
+https://codepen.io/vikasgn2/full/NWgvBGy
